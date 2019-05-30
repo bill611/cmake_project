@@ -1,0 +1,9 @@
+cscope*
+tags
+.git
+build
+out
+.ycm_extra_conf*
+mk
+*.swp
+v
